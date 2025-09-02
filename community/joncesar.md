@@ -1,8 +1,14 @@
 # Olá, eu sou Jonathan César 👋👋
+
+<a href="https://github.com/joncesar"/>
+<img src="https://avatars.githubusercontent.com/u/180686327?v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
+</a>
+
 <div>
   Sou estudante de Ciências da computação com interesse na área de cybersecurity👨🏻‍💻
 <div/>
 
+  
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-freire-06460728b)
 ## Habilidades
@@ -16,3 +22,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joncesar&hide_progress=true)
+
